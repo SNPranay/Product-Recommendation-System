@@ -55,11 +55,11 @@ I’ve used the ReLu activation function over other activation functions that we
 
 ## Refernces:  
 
-[1] https://jair.org/index.php/jair/article/view/10302
-[2] https://medium.com/erinludertblog/smote-synthetic-minorityover-sampling-technique-caada3df2c0a
-[3] https://xgboost.readthedocs.io/en/latest/
-[4] https://machinelearningmastery.com/gentle-introductionxgboost-applied-machine-learning/
-[5]https://scikit-learn.org/stable/modules/ensemble.html
-[6] https://www.thekerneltrip.com/statistics/random-forest-vsextra-tree
-[7] https://en.wikipedia.org/wiki/Multilayer perceptron
-[8] https://medium.com/usf-msds/choosing-the-right-metricfor-evaluating-machine-learning-models-part-2-86d5649a5428
+[1] https://jair.org/index.php/jair/article/view/10302  
+[2] https://medium.com/erinludertblog/smote-synthetic-minorityover-sampling-technique-caada3df2c0a  
+[3] https://xgboost.readthedocs.io/en/latest/  
+[4] https://machinelearningmastery.com/gentle-introductionxgboost-applied-machine-learning/  
+[5]https://scikit-learn.org/stable/modules/ensemble.html  
+[6] https://www.thekerneltrip.com/statistics/random-forest-vsextra-tree  
+[7] https://en.wikipedia.org/wiki/Multilayer perceptron  
+[8] https://medium.com/usf-msds/choosing-the-right-metricfor-evaluating-machine-learning-models-part-2-86d5649a5428  
